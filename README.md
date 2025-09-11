@@ -19,4 +19,3 @@ Open in Android Studio. Requires API level 26+.
 MIT
 <!-- updated: 2025-12-03-r01 -->
 
-
