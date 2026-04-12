@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NAK Quiz AI</string>
+    <string name="accessibility_description">Team NAK AI — reads quiz questions and provides instant answers</string>
+</resources>
